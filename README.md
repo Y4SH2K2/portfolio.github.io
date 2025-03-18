@@ -63,7 +63,7 @@ Fraud detection in the current trending payment methods is a need of the hour. T
 
 • Coursera(Knowledge Accelerators) - From Excel to Power BI (2025)
 
-![excel to powerbi](/Assets/excel to powerbi.png)
+![coursera](/Assets/coursera.png)
 
 • Quantium - Data Analytics Job Simulation (2025)
 
