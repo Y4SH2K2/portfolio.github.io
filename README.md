@@ -52,7 +52,7 @@ Fraud detection in the current trending payment methods is a need of the hour. T
 
 **Skills** :  Java · J2EE Web Services · MySQL
 
-![Publication](/Assets/img/publication.png)
+![Publication](/Assets/img/publication.jpeg)
 
 ## Certifications
 • Google Data Analytics Certificate (2025)
