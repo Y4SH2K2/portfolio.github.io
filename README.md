@@ -52,19 +52,19 @@ Fraud detection in the current trending payment methods is a need of the hour. T
 
 **Skills** :  Java · J2EE Web Services · MySQL
 
-![Publication](/Assets/img/publication.jpeg)
+![publication](/Assets/publication.png)
 
 ## Certifications
 • Google Data Analytics Certificate (2025)
 
 • Accenture North America - Data Analytics and Visualization Job Simulation (2025)
 
-![Accenture](/Assets/img/accenture.png)
+![accenture](/Assets/accenture.png)
 
 • Coursera(Knowledge Accelerators) - From Excel to Power BI (2025)
 
-![Coursera](/Assets/img/excel to powerbi.png)
+![excel to powerbi](/Assets/excel to powerbi.png)
 
 • Quantium - Data Analytics Job Simulation (2025)
 
-![Quantium](/Assets/img/Quantium.png)
+![Quantium](/Assets/Quantium.png)
